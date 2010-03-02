@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: InvestorWords.com Term of the Day
-Plugin URI: http://www.investorwords.com/term-of-the-day.html
+Plugin URI: http://www.investorguide.com/article/6114/investorwords-com-term-of-the-day-wordpress-plugin/
 Description: Display one investing term per day on the sidebar of your Wordpress blog
 Author: InvestorGuide.com, Pinyo Bhulipongsanon
 Version: 1.0
