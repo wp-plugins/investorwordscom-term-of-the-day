@@ -6,7 +6,9 @@ Tested up to: 2.9.2
 Stable tag: 1.0
 
 
-This plugin lets you add InvestorWord.com Term of the Day to your blog. You can add the term using Wordpress widget, or directly to your theme using PHP code.
+This plugin lets you add InvestorWord.com Term of the Day and its definition to your blog. If you have an investing or a finance blog, this is a great way to present additional useful content to your visitors. Each day, they will be able to enjoy a new investing term and definition.
+
+You can add the term using Wordpress widget, or directly to your theme using PHP code.
 
 == Description ==
 
