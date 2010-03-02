@@ -3,7 +3,7 @@ Contributors: InvestorGuide.com
 Tags: investing, term, word, content, syndication, definition, glossary
 Requires at least: 2.3
 Tested up to: 2.9.2
-Stable tag: 1.0
+Stable tag: 1.1
 
 
 This plugin lets you add InvestorWord.com Term of the Day and its definition to your blog. If you have an investing or a finance blog, this is a great way to present additional useful content to your visitors. Each day, they will be able to enjoy a new investing term and definition.
@@ -27,6 +27,9 @@ Here's the link to our [plugin homepage](http://www.investorguide.com/article/61
 5. Go to Settings > IW Investing Term to configure the plugin as needed
 
 == Changelog ==
+
+= 1.1 =
+* Fixed - access to admin page
 
 = 1.0 =
 * Initial release

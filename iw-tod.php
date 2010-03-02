@@ -4,7 +4,7 @@ Plugin Name: InvestorWords.com Term of the Day
 Plugin URI: http://www.investorguide.com/article/6114/investorwords-com-term-of-the-day-wordpress-plugin/
 Description: Display one investing term per day on the sidebar of your Wordpress blog
 Author: InvestorGuide.com, Pinyo Bhulipongsanon
-Version: 1.0
+Version: 1.1
 Author URI: http://www.investorwords.com/
 */
 
@@ -21,7 +21,9 @@ require_once (ABSPATH . WPINC . '/rss-functions.php');
 add_action('admin_menu','iw_tod_options');
 
 function iw_tod_options(){
-	add_options_page('IW Investing Term', 'IW Investing Term', 10, 'investorwordscom-term-of-the-day/optionpage.php');
+	add_options_page('IW Investing Term', 'IW Investing Term', 5, 'investorwordscom-term-of-the-day/optionpage.php');
+
+
 }
 
 function displayTOD() {
