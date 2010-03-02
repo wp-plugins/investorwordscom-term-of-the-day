@@ -21,7 +21,7 @@ require_once (ABSPATH . WPINC . '/rss-functions.php');
 add_action('admin_menu','iw_tod_options');
 
 function iw_tod_options(){
-	add_options_page('IW Investing Term', 'IW Investing Term', 10, 'investorword-term-of-the-day/optionpage.php');
+	add_options_page('IW Investing Term', 'IW Investing Term', 10, 'investorwordscom-term-of-the-day/optionpage.php');
 }
 
 function displayTOD() {
